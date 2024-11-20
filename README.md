@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Faustino 👋
 
-<!--
-**geekyBoogiepop/geekyBoogiepop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Faustino López Padilla](https://github.com/user-attachments/assets/06214834-2918-4c40-a6ca-8b8ba8bbe5fc)
 
-Here are some ideas to get you started:
+## About me
+- 📲 Android Mobile Developer
+- 🌍 Web Developer
+- ✨ Experience with Python, Django, JavaScript, Kotlin, Jetpack Compose, SQL & more! 🔥
+- ➡️ Sharing what I'm building on [LinkedIn](www.linkedin.com/in/faustino-evenor-lópez-padilla-71a5191b6)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geekyBoogiepop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geekyBoogiepop&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
